@@ -1,0 +1,10 @@
+{
+    "name": "PHP Pandora Zipper",
+    "description": "Unofficial Pandora Downloading App",
+    "keywords": ["pandora", "php", "api","download","zip"],
+    "require": {
+    	"php": "5.5.12",
+    	"ext-mcrypt": "*",
+    	"ext-openssl": "*"
+    }
+}
