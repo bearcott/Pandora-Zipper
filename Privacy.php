@@ -26,10 +26,13 @@
             has been added, it is zipped and sent back to the browser for download.</p>
             <p>Want to see the above written in shitty code? <a href="https://github.com/bGrubbs/Pandora-Zipper/">Here's the git repo.</a></p>
         </section>
+<<<<<<< HEAD
         <section id="legal">
             <p>According to DMCA, Digital Millennium Copyright Act, it is illegal to DISTRIBUTE, SALE, MANUFACTURE copyrighted material. It does not state that having copyright material in your possession is illegal.<p>
             <p>As long as it is played for your leisure at home, then it is fine. Pandora gets more exposure and you get more songs. win win.<p>
         </section>
+=======
+>>>>>>> 1f364a98cbfeeec3ffcc1b22a8df9a37f35091b2
         <section id="privacy">
             <h1>Privacy Policy</h1>
             <p>Pandora.com is the legal owner and distributor of the songs that we allow you to download for strictly personal use.</p>

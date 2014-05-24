@@ -123,7 +123,11 @@ if (isset($_POST['logout'])) {
                 </li>
                 <li>
                     <b>100% free and legal.</b>
+<<<<<<< HEAD
                     <p>Well sort of. <a href="Privacy.php#legal">Read here</a> for more info about the legalness but, hey it's free! Free is good.</p>
+=======
+                    <p>Well sort of. I mean it's not really legal but, hey it's free! Free is good.</p>
+>>>>>>> 1f364a98cbfeeec3ffcc1b22a8df9a37f35091b2
                 </li>
                 <li>
                     <b><b>
