@@ -58,6 +58,8 @@ if (isset($_POST['logout'])) {
 <html>
 <head>
     <title>Pandora Zipper</title>
+    <meta name="description" content="add meta tags to 28 songs from Pandora to zip and download to your PC">
+
     <link href="static/style.css" type="text/css" rel="stylesheet">
     <script src="static/jquery.min.js"></script>
     <script src="static/js.js"></script>
