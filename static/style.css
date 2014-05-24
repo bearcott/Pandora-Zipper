@@ -323,3 +323,7 @@ span.beta {
     font-weight: normal;
     text-shadow: none;
 }
+section a {
+    color: #94D0FF;
+    text-decoration: none;
+}
