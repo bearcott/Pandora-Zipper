@@ -24,5 +24,5 @@ These companies may use non-personally identifiable information (e.g., click str
 during your visits to help us optimize and maintain our site. These companies typically use a cookie or third party web beacons to collect this information.
 To learn more about this behavioral advertising practice or to opt-out of this type of advertising, check out (http://www.google.com/policies/technologies/ads/)[how Google Analytics advertises.]
 ###DMCA
-If you feel that the distribution of music available here have infringed on your rights or copyrights, please send an email to flamurds@gmail.com
+If you feel that the distribution of music available here have infringed on your rights or copyrights, please send an email to [REDACTED]
 together with your credentials and a brief reason for your claim. Our support team will respond promptly. Thank you.
